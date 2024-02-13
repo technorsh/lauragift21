@@ -51,13 +51,13 @@ I love sharing my knowledge with others, and I do that through content creation 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=technorsh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=technorsh&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -70,7 +70,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=technorsh&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
